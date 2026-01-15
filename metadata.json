@@ -1,0 +1,7 @@
+{
+  "name": "RealRefine AI",
+  "description": "A photorealistic image transformation tool designed to create casual, smartphone-style lifestyle photos while strictly preserving a reference identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
